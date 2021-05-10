@@ -1,7 +1,7 @@
 # Codewars Practice
 This repository contains some of the kata that I completed while practicing in Codewars. 
 
-<b>Current Kyu Level: 6 kyu </b>
+<b>Current ranking: 6 kyu </b>
 
 ## View the code!
 
